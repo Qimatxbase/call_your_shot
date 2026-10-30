@@ -1,0 +1,23 @@
+# Python & Environment
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+.env
+.env.local
+.env.*
+!.env.example
+Agent.md
+agent.md
+AGENT.md
+AGENTS.md
+.agents/
+.codex/
+
+
+# Authored documentation is versioned; generated files use their own ignores.
+
+# OS
+.DS_Store
+Thumbs.db
