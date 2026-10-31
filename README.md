@@ -51,5 +51,3 @@ This portfolio snapshot preserves work from the following repositories. Existing
 
 - https://github.com/Call-your-shot/backend-call-your-shot
 - https://github.com/Call-your-shot/ui-call-your-shot
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
